@@ -68,4 +68,3 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # PHP-Laravel-RESTapi
 A RESTful API made with PHP using the Laravel Framework.
->>>>>>> 5f52bfbef015fc8794770c4321dad4a8ef69f294
